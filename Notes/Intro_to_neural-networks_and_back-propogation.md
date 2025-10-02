@@ -8,5 +8,5 @@ An Autograd engine implements back-propogation.
 Basically it's the vector that points in the direction of maximum increase at any x,y.
 
 Backpropogation is an algorithm that allows you to effeciently evaluate the gradient of a loss function with respect to weightd of a neural network.
-We can iteratively tune the weights of that neural network and improve the accuracy of that network.
+We can iteratively tune the weights of that neural network and improve the accuracy of that network. 
 
